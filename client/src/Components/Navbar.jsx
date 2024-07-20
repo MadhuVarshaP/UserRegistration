@@ -7,12 +7,6 @@ function Navbar() {
       <p className="p-[20px]">Register You</p>
       <div className="flex w-[450px] justify-around">
         <Link
-          to="/"
-          className="hover:bg-white hover:text-black p-[20px] mt-[10px] hover:rounded-t-lg"
-        >
-          Home
-        </Link>
-        <Link
           to="/register"
           className="hover:bg-white hover:text-black p-[20px] mt-[10px] hover:rounded-t-lg"
         >
